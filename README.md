@@ -16,11 +16,18 @@ For this project we will be answering two questions to evaluate the Smile On pro
 Information about patients is gathered during different interactions (initial visit, checkups, etc.). We used de-identifed patient data for our analysis.
 
 # Contributions
-I did a lot of EDA on this rather messy data set that contained many nulls. Two of the simple charts that I created were included in the presentation. The first  how long it has been since the patients in the program had been to the dentist, indicating that an alarming 39% have not been to the dentist in over 3 years.
+I did a lot of EDA on this rather messy data set that contained many nulls. I used Python for data analysis and some visualizations and PowerBI for most of the visualizations. 
 
-![years_chart](last dentist visit chart.jpg)
+Two of the simple charts that I created were included in the presentation. The first  how long it has been since the patients in the program had been to the dentist, indicating that an alarming 39% have not been to the dentist in over 3 years.
+
+![years_chart](https://github.com/katiek74/family-childrens-svcs-smileon/blob/main/last%20dentist%20visit%20chart.jpg)
 
 The second is a very simple chart showing how many patients had a Smile On clinic encounter 3 or more times to show they have a "dental home" and are returning for services.
 
-![visits_chart](Number of Clinic Encounters chart.jpg)
+![visits_chart](https://github.com/katiek74/family-childrens-svcs-smileon/blob/main/Number%20of%20Clinic%20Encounters%20chart.jpg)
  
+ These choropleth maps were not included in the presentation, but I had fun making them in Python. They show the number of Smile On patients per county and the poverty rate per county in the state of Tennessee.
+
+ ![users_map](https://github.com/katiek74/family-childrens-svcs-smileon/blob/main/map%20-%20county%20smileon%20users.jpg)
+
+ ![poverty_map](https://github.com/katiek74/family-childrens-svcs-smileon/blob/main/map%20-%20county%20poverty%20rate.jpg)
